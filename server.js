@@ -1,3 +1,4 @@
+app.use(cors()); // Allow requests from all origins
 const cors = require('cors');
 const express = require('express');
 const fetch = require('node-fetch');
