@@ -1,12 +1,9 @@
-app.use(cors({
-  origin: 'https://citydiscoverer.ai'
-}));
-app.use(cors()); // Allow requests from all origins
-const cors = require('cors');
 const express = require('express');
+const cors = require('cors');
 const fetch = require('node-fetch');
-const app = express();
 
+const app = express();
+app.use(cors());
 app.use(express.json());
 
 app.get('/detectLocation', async (req, res) => {
