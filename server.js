@@ -1,3 +1,6 @@
+app.use(cors({
+  origin: 'https://citydiscoverer.ai'
+}));
 app.use(cors()); // Allow requests from all origins
 const cors = require('cors');
 const express = require('express');
