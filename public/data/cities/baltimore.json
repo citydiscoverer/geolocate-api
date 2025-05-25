@@ -1,13 +1,16 @@
 {
-  "overview": "Baltimore is a vibrant port city on the Chesapeake Bay known for its rich history, crab cuisine, and distinct neighborhoods.",
-  "attractions": "Inner Harbor, National Aquarium, Fort McHenry, Camden Yards, Baltimore Museum of Art",
-  "food": "Maryland blue crab, crab cakes, Lexington Market, Faidley’s Seafood",
-  "transport": "Charm City Circulator, MTA Light Rail, MARC commuter trains, walkable harbor area",
-  "stays": "Downtown hotels, waterfront Airbnbs, boutique inns in Mount Vernon",
-  "tips": "Try local breweries, visit neighborhoods like Fells Point and Hampden, watch Orioles or Ravens games",
-  "culture": "Edgar Allan Poe heritage, vibrant Black arts scene, Johns Hopkins institutions",
-  "tours": "Harbor boardwalk loop, Mount Vernon cultural district walk, Edgar Allan Poe historic tour",
-  "audio": "Self-guided audio tour of Inner Harbor, narrated Civil War and literary routes",
-  "architecture": "Federal-style row houses, modern glass museums, historic shipyards",
-  "etiquette": "Tip drivers and servers, don’t call it “DC” — Baltimore has its own proud identity"
+  "overview": "Baltimore is a historic seaport city in Maryland known for its diverse neighborhoods, arts scene, and seafood, especially its famous blue crabs.",
+  "attractions": "Inner Harbor, National Aquarium, Fort McHenry, Camden Yards, Baltimore Museum of Art, Walters Art Museum",
+  "food": "Maryland blue crabs, crab cakes, Lexington Market, Faidley’s Seafood, Woodberry Kitchen, Clavel, Ekiben",
+  "transport": "Charm City Circulator (free bus), MTA Light Rail, MARC train to DC, Uber/Lyft, walkable harbor area",
+  "stays": "Harbor East hotels, Mount Vernon B&Bs, Inner Harbor Airbnbs, boutique hotels in Fells Point",
+  "tips": "Explore side neighborhoods like Hampden and Charles Village, avoid rush hour on I-83, use the water taxi for scenic transport",
+  "culture": "Edgar Allan Poe heritage, vibrant Black arts community, strong roots in jazz and hip hop, Baltimore Symphony Orchestra",
+  "audio": "Inner Harbor self-guided walking tour, Poe house audio guide, Mount Vernon cultural walk",
+  "tours": "Downtown heritage tour, Federal Hill lookout walk, street art and mural trail, Fell’s Point haunted pub crawl",
+  "seasonal": "Light City Festival (Spring), Artscape (Summer), HonFest (June), waterfront fireworks (July 4 & New Year’s Eve)",
+  "architecture": "Brick row homes, Gothic cathedrals, modern waterfront buildings, historic ships and piers",
+  "etiquette": "Locals are proud of their neighborhoods — respect the name. Always tip well. Don’t compare to DC!",
+  "events": "First Thursdays at Canton Waterfront, Baltimore Farmer’s Market (Sundays), Orioles & Ravens games, neighborhood street fairs",
+  "user_requests": "Request a custom local brewery route or Black history heritage tour via support@citydiscoverer.ai"
 }
